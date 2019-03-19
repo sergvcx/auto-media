@@ -1,0 +1,1 @@
+del *.JPG_original
